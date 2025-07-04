@@ -30,7 +30,7 @@ llm-infer-framework-learn/
 
 
 ## 📝 进度记录
-- [ ] 完成vllm安装
+- [x] 完成vllm安装
 - [ ] 使用vllm运行一个example
 
 
